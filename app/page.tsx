@@ -412,8 +412,7 @@ export default function HomePage() {
               </h2>
 
               <p className="mt-5 max-w-xl text-lg leading-8 text-slate-600">
-                Highlight the cities and neighbourhoods Suresh actually serves.
-                Later, each can become its own local SEO page.
+                
               </p>
 
               <div className="mt-8 flex flex-wrap gap-3">
